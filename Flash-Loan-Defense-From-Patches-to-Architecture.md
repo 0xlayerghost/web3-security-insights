@@ -147,7 +147,7 @@ The system explicitly modularizes three historically coupled components:
 **Oracle** — bridges proof from destination chain back to source chain (Polymer, Wormhole, or Bitcoin)
 
 The fund flow looks like this:
-
+![alt text](image.png)
 ```
 User (source chain)
     ↓  approve + open()

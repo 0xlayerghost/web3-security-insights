@@ -162,7 +162,7 @@ modifier notSameBlock() {
 - **Oracle**：将目标链的交付证明传递回源链
 
 实际的资金流向如下：
-
+![alt text](image.png)
 ```
 用户资产（源链）
     ↓ 锁入 InputSettlerEscrow 合约
